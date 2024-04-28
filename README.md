@@ -9,7 +9,7 @@
 Сложность всех алгоритмов:
 $$O(\log_{3}{n})$$
 пример вывода coin_finder_a1.py
-![alt text](screens/output.png)
+![img](https://drive.google.com/file/d/1HrUZnDyutHgdJtsEdCJwA_nQTt3Efdly/view?usp=sharing)
 
 ## Технологии
 
